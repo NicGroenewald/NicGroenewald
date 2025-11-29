@@ -9,11 +9,7 @@ I'm particularly interested in automation, full-stack development, and exploring
 
 Always learning, always building, and always working toward writing cleaner, faster, and more reliable software.
 
-I enjoy uncovering how a system works under the hood: 
-
-Outside class I spend a lot of time improving how I think and code solving LeetCode problems learning AWS experimenting with AI ideas for sports tech and finding new ways to make things run smoother
-
-I’m all about learning how every layer of a system connects and how to make that connection faster smarter and more reliable
+I enjoy uncovering how a system works under the hood
 
 ---
 
