@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Nic 👋</h1>
+<h1 align="center">Hi, I'm Nic </h1>
 
-## 🚀 About Me  
+## About Me  
 I'm a second-year Computer Systems student at MTU Cork, working across software, hardware, and automation. I enjoy building programs, tools, and small systems that actually run efficiently—whether that's scripts that automate tasks, applications that solve real problems, or hardware projects that connect and communicate the way they're supposed to.
 
 My GitHub currently includes LeetCode problem-solving work and a collection of coding projects I've been developing as I learn more about building apps, structuring programs, and improving the way systems interact.
@@ -13,12 +13,12 @@ I enjoy uncovering how a system works under the hood
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-groenewald-2b711a243/)
 
 ---
 
-## 🛠 Tech Stack:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ I enjoy uncovering how a system works under the hood
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NicGroenewald&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NicGroenewald&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicGroenewald&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -37,7 +37,7 @@ I enjoy uncovering how a system works under the hood
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NicGroenewald&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
