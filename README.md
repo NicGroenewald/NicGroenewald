@@ -1,43 +1,56 @@
-<h1 align="center">Hi, I'm Nic </h1>
+<h1 align="center">Hi, I'm Nic 👋</h1>
 
-## About Me  
-I'm a second-year Computer Systems student at MTU Cork, working across software, hardware, and automation. I enjoy building programs, tools, and small systems that actually run efficiently—whether that's scripts that automate tasks, applications that solve real problems, or hardware projects that connect and communicate the way they're supposed to.
-
-My GitHub currently includes LeetCode problem-solving work and a collection of coding projects I've been developing as I learn more about building apps, structuring programs, and improving the way systems interact.
-
-I'm particularly interested in automation, full-stack development, and exploring how generative AI can make everyday tasks smarter and more streamlined. I like experimenting with new ideas, improving how I code, and diving deeper into how systems behave under the surface.
-
-Always learning, always building, and always working toward writing cleaner, faster, and more reliable software.
-
-I enjoy uncovering how a system works under the hood
+<p align="center">
+  Third-year Computer Systems student at MTU Cork — building across software, ML, and hardware.
+</p>
 
 ---
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-groenewald-2b711a243/)
+## About Me
+
+I'm studying Computer Systems at MTU Cork, currently in my 3rd year. Most of my time goes into Python-based projects — from ML tools to IoT dashboards to home lab automation.
+
+My main focus has been **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**, a tool that lets you visualize how a trained ML model actually works under the hood. I also built **[PI-IOT](https://github.com/NicGroenewald/PI-IOT)** as an experimental project — a local MQTT-based smart device dashboard for controlling Tuya devices from a Raspberry Pi.
+
+I have a strong interest in ML and AI, and enjoy digging into how these systems actually function rather than just using them as black boxes.
 
 ---
 
-## Tech Stack:
+## Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NicGroenewald&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer) | Visualize how a trained ML model works under the hood | Python, FastAPI, sklearn |
+| [PI-IOT](https://github.com/NicGroenewald/PI-IOT) | Experimental smart device dashboard controlling Tuya devices over MQTT | Python, React, MQTT, RPi |
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NicGroenewald&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NicGroenewald&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicGroenewald&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NicGroenewald&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicGroenewald&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-groenewald-2b711a243/)
