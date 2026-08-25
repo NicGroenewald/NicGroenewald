@@ -8,11 +8,11 @@
 
 ## About Me
 
-I'm in my 3rd year of Computer Systems at MTU Cork, and most of what I build ends up being Python.
+I'm in my 3rd year of a BSc (Hons) in Computer Systems (MT802) at MTU Cork, and most of what I build ends up being Python.
 
 I'm co-founder and technical lead at **[TRACE](https://traceteams.com)**, a prompt-coaching product currently in closed beta. On the technical side I work across a FastAPI scoring service on ECS Fargate, retrieval over pgvector, inference through Amazon Bedrock, a browser extension, and a dashboard on Supabase Postgres with row-level security. I also look after the infrastructure as code and the CI pipeline.
 
-My day job is managing PC Maestro, a PC repair shop in Cork. Over four years I've gone from technician to running the place, and somewhere along the way I ended up writing most of the software it runs on. There's a sync that keeps the till system and the Shopify store in agreement, and a check-in system that tracks every repair from drop-off to collection. Both are private repos, but they're where I've learned the most.
+My day job is General Manager at PC Maestro, a PC repair shop in Cork. Over four years I've gone from technician to running the place, and somewhere along the way I ended up writing most of the software it runs on. There's a sync that keeps the till system and the Shopify store in agreement, and a check-in system that tracks every repair from drop-off to collection. Both are private repos, but they're where I've learned the most.
 
 In my own time I work on **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**, an open-source library that takes a fitted scikit-learn model and serves a browser UI showing how it actually reaches a decision. It came out of wanting to stop treating models as black boxes. **[PI-IOT](https://github.com/NicGroenewald/PI-IOT)** is the other one, an MQTT dashboard that controls Tuya smart devices from a Raspberry Pi without going through a vendor cloud.
 
@@ -57,7 +57,7 @@ Currently looking for a software engineering placement starting January 2027.
 |---|---|---|
 | [ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer) | Pass it a fitted scikit-learn model and get a browser UI that traces a query through it, with feature importance beside it. Supports Decision Trees, Random Forests, KNN and SVM | Python, FastAPI, scikit-learn, React |
 | [PI-IOT](https://github.com/NicGroenewald/PI-IOT) | Local-network dashboard for Tuya smart plugs and bulbs over MQTT, no vendor cloud involved | Python, MQTT, React, Vite, Raspberry Pi |
-| [Convolutional-Neural-Network](https://github.com/NicGroenewald/Convolutional-Neural-Network) | CNN trained on MNIST, served through a browser UI you can draw digits into | Python, PyTorch, FastAPI |
+| [Convolutional-Neural-Network](https://github.com/NicGroenewald/Convolutional-Neural-Network) | PyTorch CNN trained on MNIST, with a Pygame drawing interface for real-time handwritten-digit recognition | Python, PyTorch, torchvision, Pygame, OpenCV |
 
 ---
 
