@@ -16,7 +16,6 @@ My day job is General Manager at PC Maestro, a PC repair shop in Cork. Over four
 
 In my own time I work on **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**, an open-source library that takes a fitted scikit-learn model and serves a browser UI showing how it actually reaches a decision. It came out of wanting to stop treating models as black boxes. **[PI-IOT](https://github.com/NicGroenewald/PI-IOT)** is the other one, an MQTT dashboard that controls Tuya smart devices from a Raspberry Pi without going through a vendor cloud.
 
-Currently looking for a software engineering placement starting January 2027.
 
 ---
 
