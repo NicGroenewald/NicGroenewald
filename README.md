@@ -8,9 +8,8 @@
 
 ## About Me
 
-I build mostly in Python, with a focus on ML. Starting a placement as an IT Cloud Engineering Intern at Qualcomm Cork in January 2027.
+Third-year BSc (Hons) Computer Systems (MT802) student at MTU Cork. I build mostly in Python, with a focus on ML/AI. Starting a placement as an IT Cloud Engineering Intern at Qualcomm Cork in January 2027.
 
-- **[TRACE](https://traceteams.com)**: co-founder and technical lead of a prompt-coaching product in closed beta. FastAPI on ECS Fargate, pgvector, Amazon Bedrock, a browser extension, Supabase, Terraform and CI.
 - **[Motion Pending](https://github.com/Motion-Pending/motion-pending)**: our team's 9th ABC Challenge entry, a compact model that predicts VR head pose 200 ms ahead. [Interactive site](https://motion-pending.github.io/motion-pending/).
 - **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**: an open-source library that shows how a fitted scikit-learn model reaches its decisions, in the browser.
 - **PC Maestro**: General Manager of a PC repair shop in Cork, where I also wrote the software it runs on (till-to-Shopify sync, repair tracking).
