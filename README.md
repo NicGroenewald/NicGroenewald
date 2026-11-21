@@ -8,16 +8,12 @@
 
 ## About Me
 
-I'm in my 3rd year of a BSc (Hons) in Computer Systems (MT802) at MTU Cork, and most of what I build ends up being Python.
+I build mostly in Python, with a focus on ML. Starting a placement as an IT Cloud Engineering Intern at Qualcomm Cork in January 2027.
 
-I'm co-founder and technical lead at **[TRACE](https://traceteams.com)**, a prompt-coaching product currently in closed beta. On the technical side I work across a FastAPI scoring service on ECS Fargate, retrieval over pgvector, inference through Amazon Bedrock, a browser extension, and a dashboard on Supabase Postgres with row-level security. I also look after the infrastructure as code and the CI pipeline.
-
-My day job is General Manager at PC Maestro, a PC repair shop in Cork. Over four years I've gone from technician to running the place, and somewhere along the way I ended up writing most of the software it runs on. There's a sync that keeps the till system and the Shopify store in agreement, and a check-in system that tracks every repair from drop-off to collection. Both are private repos, but they're where I've learned the most.
-
-In my own time I work on **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**, an open-source library that takes a fitted scikit-learn model and serves a browser UI showing how it actually reaches a decision. It came out of wanting to stop treating models as black boxes.
-
-With my team, Motion Pending, I entered the 9th ABC Challenge: a compact model that predicts where a VR headset will be pointing 200 ms from now, from the last few seconds of head motion. The code and models are in **[motion-pending](https://github.com/Motion-Pending/motion-pending)**, and there's an interactive walkthrough of the model on **[our site](https://motion-pending.github.io/motion-pending/)**.
-
+- **[TRACE](https://traceteams.com)**: co-founder and technical lead of a prompt-coaching product in closed beta. FastAPI on ECS Fargate, pgvector, Amazon Bedrock, a browser extension, Supabase, Terraform and CI.
+- **[Motion Pending](https://github.com/Motion-Pending/motion-pending)**: our team's 9th ABC Challenge entry, a compact model that predicts VR head pose 200 ms ahead. [Interactive site](https://motion-pending.github.io/motion-pending/).
+- **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**: an open-source library that shows how a fitted scikit-learn model reaches its decisions, in the browser.
+- **PC Maestro**: General Manager of a PC repair shop in Cork, where I also wrote the software it runs on (till-to-Shopify sync, repair tracking).
 
 ---
 
