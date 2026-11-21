@@ -14,7 +14,9 @@ I'm co-founder and technical lead at **[TRACE](https://traceteams.com)**, a prom
 
 My day job is General Manager at PC Maestro, a PC repair shop in Cork. Over four years I've gone from technician to running the place, and somewhere along the way I ended up writing most of the software it runs on. There's a sync that keeps the till system and the Shopify store in agreement, and a check-in system that tracks every repair from drop-off to collection. Both are private repos, but they're where I've learned the most.
 
-In my own time I work on **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**, an open-source library that takes a fitted scikit-learn model and serves a browser UI showing how it actually reaches a decision. It came out of wanting to stop treating models as black boxes. **[PI-IOT](https://github.com/NicGroenewald/PI-IOT)** is the other one, an MQTT dashboard that controls Tuya smart devices from a Raspberry Pi without going through a vendor cloud.
+In my own time I work on **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**, an open-source library that takes a fitted scikit-learn model and serves a browser UI showing how it actually reaches a decision. It came out of wanting to stop treating models as black boxes.
+
+With my team, Motion Pending, I entered the 9th ABC Challenge: a compact model that predicts where a VR headset will be pointing 200 ms from now, from the last few seconds of head motion. The code and models are in **[motion-pending](https://github.com/Motion-Pending/motion-pending)**, and there's an interactive walkthrough of the model on **[our site](https://motion-pending.github.io/motion-pending/)**.
 
 
 ---
@@ -55,7 +57,7 @@ In my own time I work on **[ML-Visualizer](https://github.com/NicGroenewald/ML-v
 | Project | What it does | Stack |
 |---|---|---|
 | [ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer) | Pass it a fitted scikit-learn model and get a browser UI that traces a query through it, with feature importance beside it. Supports Decision Trees, Random Forests, KNN and SVM | Python, FastAPI, scikit-learn, React |
-| [PI-IOT](https://github.com/NicGroenewald/PI-IOT) | Local-network dashboard for Tuya smart plugs and bulbs over MQTT, no vendor cloud involved | Python, MQTT, React, Vite, Raspberry Pi |
+| [Motion Pending](https://github.com/Motion-Pending/motion-pending) ([site](https://motion-pending.github.io/motion-pending/)) | Our team's 9th ABC Challenge entry: a compact model that predicts VR head pose 200 ms ahead, plus an interactive 3D site that walks through it | Python, PyTorch, ONNX, three.js |
 | [Convolutional-Neural-Network](https://github.com/NicGroenewald/Convolutional-Neural-Network) | PyTorch CNN trained on MNIST, with a Pygame drawing interface for real-time handwritten-digit recognition | Python, PyTorch, torchvision, Pygame, OpenCV |
 
 ---
