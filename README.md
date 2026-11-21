@@ -10,7 +10,7 @@
 
 Third-year BSc (Hons) Computer Systems (MT802) student at MTU Cork. I build mostly in Python, with a focus on ML/AI. Starting a placement as an IT Cloud Engineering Intern at Qualcomm Cork in January 2027.
 
-- **[Motion Pending](https://github.com/Motion-Pending/motion-pending)**: our team's 9th ABC Challenge entry, a compact model that predicts VR head pose 200 ms ahead. [Interactive site](https://motion-pending.github.io/motion-pending/).
+- **[Motion Pending](https://github.com/Motion-Pending/motion-pending)**: our team's entry in the 9th ABC Challenge, joint gold. A compact model that predicts VR head pose 200 ms ahead. [Interactive site](https://motion-pending.github.io/motion-pending/).
 - **[ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer)**: an open-source library that shows how a fitted scikit-learn model reaches its decisions, in the browser.
 - **PC Maestro**: General Manager of a PC repair shop in Cork, where I also wrote the software it runs on (till-to-Shopify sync, repair tracking).
 
@@ -52,7 +52,7 @@ Third-year BSc (Hons) Computer Systems (MT802) student at MTU Cork. I build most
 | Project | What it does | Stack |
 |---|---|---|
 | [ML-Visualizer](https://github.com/NicGroenewald/ML-visualizer) | Pass it a fitted scikit-learn model and get a browser UI that traces a query through it, with feature importance beside it. Supports Decision Trees, Random Forests, KNN and SVM | Python, FastAPI, scikit-learn, React |
-| [Motion Pending](https://github.com/Motion-Pending/motion-pending) ([site](https://motion-pending.github.io/motion-pending/)) | Our team's 9th ABC Challenge entry: a compact model that predicts VR head pose 200 ms ahead, plus an interactive 3D site that walks through it | Python, PyTorch, ONNX, three.js |
+| [Motion Pending](https://github.com/Motion-Pending/motion-pending) ([site](https://motion-pending.github.io/motion-pending/)) | Joint gold in the 9th ABC Challenge: a compact model that predicts VR head pose 200 ms ahead, plus an interactive 3D site that walks through it | Python, PyTorch, ONNX, three.js |
 | [Convolutional-Neural-Network](https://github.com/NicGroenewald/Convolutional-Neural-Network) | PyTorch CNN trained on MNIST, with a Pygame drawing interface for real-time handwritten-digit recognition | Python, PyTorch, torchvision, Pygame, OpenCV |
 
 ---
